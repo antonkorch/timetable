@@ -1,4 +1,3 @@
-# Timetable
 ## Monday
 14:15 Russian
 ## Thursday
